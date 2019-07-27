@@ -1,4 +1,4 @@
-This purpose of this project was to create computer generated melodies over a sequence of musical chords, with varying degrees of 
+The purpose of this project was to create computer generated melodies over a sequence of musical chords, with varying degrees of 
 "pleasantness".
 
 To accomplish this, the audio file of each chord was analyzed using a fast fourier transform in order to determine the notes being played, 
