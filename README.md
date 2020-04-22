@@ -1,5 +1,5 @@
 # Course-Work
-A collection of small assignments from my undergraduate, most of which focus on a specific technique/topic
+A collection of assignments, labs, etc. from my undergraduate, most of which focus on a specific technique/topic
 
 ## Computer Generated Melodies Project
 The purpose of this project was to create computer generated melodies over a sequence of musical chords (given as sound files, not chord names), with varying degrees of "pleasantness".
@@ -68,4 +68,4 @@ Principal component analysis of protein folding simulation
 
 
 ## Double Square Well Correlation Diagram.ipynb
-Solving the transcendental eigenvalue equation for a single fermion in a double square well potential to plot the energyy eigenvalues as a function of well separation
+Solving the transcendental eigenvalue equation for a single fermion in a double square well potential to plot the energy eigenvalues as a function of well separation
